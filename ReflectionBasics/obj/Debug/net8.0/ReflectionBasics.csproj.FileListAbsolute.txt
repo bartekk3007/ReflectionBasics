@@ -1,0 +1,14 @@
+C:\Users\48571\source\repos\ReflectionBasics\bin\Debug\net8.0\ReflectionBasics.exe
+C:\Users\48571\source\repos\ReflectionBasics\bin\Debug\net8.0\ReflectionBasics.deps.json
+C:\Users\48571\source\repos\ReflectionBasics\bin\Debug\net8.0\ReflectionBasics.runtimeconfig.json
+C:\Users\48571\source\repos\ReflectionBasics\bin\Debug\net8.0\ReflectionBasics.dll
+C:\Users\48571\source\repos\ReflectionBasics\bin\Debug\net8.0\ReflectionBasics.pdb
+C:\Users\48571\source\repos\ReflectionBasics\obj\Debug\net8.0\ReflectionBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48571\source\repos\ReflectionBasics\obj\Debug\net8.0\ReflectionBasics.AssemblyInfoInputs.cache
+C:\Users\48571\source\repos\ReflectionBasics\obj\Debug\net8.0\ReflectionBasics.AssemblyInfo.cs
+C:\Users\48571\source\repos\ReflectionBasics\obj\Debug\net8.0\ReflectionBasics.csproj.CoreCompileInputs.cache
+C:\Users\48571\source\repos\ReflectionBasics\obj\Debug\net8.0\ReflectionBasics.dll
+C:\Users\48571\source\repos\ReflectionBasics\obj\Debug\net8.0\refint\ReflectionBasics.dll
+C:\Users\48571\source\repos\ReflectionBasics\obj\Debug\net8.0\ReflectionBasics.pdb
+C:\Users\48571\source\repos\ReflectionBasics\obj\Debug\net8.0\ReflectionBasics.genruntimeconfig.cache
+C:\Users\48571\source\repos\ReflectionBasics\obj\Debug\net8.0\ref\ReflectionBasics.dll
